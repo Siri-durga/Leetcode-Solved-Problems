@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
 |  |
@@ -62,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Brainteaser
 |  |
