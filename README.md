@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0826-soup-servings) |
 ## Probability and Statistics
 |  |
@@ -127,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
