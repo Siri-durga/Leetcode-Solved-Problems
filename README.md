@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0679-24-game](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0679-24-game](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0826-soup-servings) |
 ## Probability and Statistics
 |  |
