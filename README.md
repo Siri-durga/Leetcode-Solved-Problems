@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0826-soup-servings](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Probability and Statistics
 |  |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+## String
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
