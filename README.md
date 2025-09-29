@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
