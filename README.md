@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0679-24-game](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0826-soup-servings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
