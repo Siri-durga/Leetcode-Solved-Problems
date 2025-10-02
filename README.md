@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Probability and Statistics
