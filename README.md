@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Table
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0037-sudoku-solver](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
 ## Geometry
@@ -218,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
