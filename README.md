@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
