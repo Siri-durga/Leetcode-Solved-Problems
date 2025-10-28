@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Backtracking
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
