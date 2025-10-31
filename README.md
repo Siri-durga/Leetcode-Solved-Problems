@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-minimum-number-of-people-to-teach](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2689-rearranging-fruits](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Probability and Statistics
 |  |
