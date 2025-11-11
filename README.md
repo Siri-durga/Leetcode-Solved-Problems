@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0679-24-game) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0118-pascals-triangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
