@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2689-rearranging-fruits](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
