@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
