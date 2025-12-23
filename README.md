@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-minimum-number-of-people-to-teach](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 |  |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Queue
