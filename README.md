@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0944-delete-columns-to-make-sorted](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Game Theory
