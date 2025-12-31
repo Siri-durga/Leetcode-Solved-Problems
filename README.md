@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Table
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
@@ -284,10 +288,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Union Find
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Counting
 |  |
 | ------- |
