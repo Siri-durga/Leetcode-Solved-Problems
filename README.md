@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2689-rearranging-fruits](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3791-fruits-into-baskets-iii) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Queue
 |  |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Combinatorics
 |  |
 | ------- |
