@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1834-minimum-number-of-people-to-teach](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2689-rearranging-fruits](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2689-rearranging-fruits) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->
