@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1642-water-bottles) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2288-count-operations-to-obtain-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/0027-remove-element/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Combinatorics
 | Problem Name | Difficulty |
