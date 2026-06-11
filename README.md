@@ -77,12 +77,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3336-water-bottles-ii](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Probability and Statistics
