@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2529-range-product-queries-of-powers) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Tree
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2196-create-binary-tree-from-descriptions](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sort
 | Problem Name | Difficulty |
@@ -238,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3462-vowels-game-in-a-string](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Probability and Statistics
