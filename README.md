@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0940-fruit-into-baskets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0940-fruit-into-baskets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
