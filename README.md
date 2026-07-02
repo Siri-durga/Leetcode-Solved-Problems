@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3074-apple-redistribution-into-boxes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 | Problem Name | Difficulty |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Geometry
 | Problem Name | Difficulty |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0794-swim-in-rising-water](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,4 +347,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
