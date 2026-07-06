@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0940-fruit-into-baskets](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1288-remove-covered-intervals](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Siri-durga/Leetcode-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/Siri-durga/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [1288-remove-covered-intervals](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Siri-durga/Leetcode-Solved-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/Siri-durga/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Siri-durga/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
